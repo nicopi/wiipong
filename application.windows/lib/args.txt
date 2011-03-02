@@ -1,0 +1,3 @@
+
+wiipong
+wiipong.jar,core.jar,bluecove-gpl-2.1.0.jar,wrj4P5.jar,Loc.jar,WiiRemoteJ.jar,bluecove-2.1.0.jar

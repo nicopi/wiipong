@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/wiipong.jar:$APPDIR/lib/core.jar:$APPDIR/lib/bluecove-gpl-2.1.0.jar:$APPDIR/lib/wrj4P5.jar:$APPDIR/lib/Loc.jar:$APPDIR/lib/WiiRemoteJ.jar:$APPDIR/lib/bluecove-2.1.0.jar" wiipong
